@@ -1,0 +1,10 @@
+.env
+test.py
+migrations
+env
+ennv
+static
+__pycache__
+*.pyc
+*.png
+*.jpg
