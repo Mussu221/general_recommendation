@@ -137,7 +137,7 @@ rec_system = GeneralRecommendationSystem(feature_column="tags",
 ```
   
 
-# Update dataset and calculate similarity 
+# Add/Update dataset and calculate similarity 
 ```python
 rec_system.update_data_and_similarity(custom_data,
 		 file_prefix="product_recommendations", allow_duplicates=False)
